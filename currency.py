@@ -22,5 +22,3 @@ def getBTCcurrency():
     return "Cotizacición al {} \n1 BTC = USD {} \nFuente {}".format(fecha_actual, usd_value, url)
 
 
-
-getBTCcurrency()
